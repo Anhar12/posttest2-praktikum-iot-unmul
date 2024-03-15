@@ -37,4 +37,5 @@ Perangkat ini menggunakan NodeMCU yang menghasilkan output berupa 1 LED dan 1 Pi
 2. Our Schematic
    ![skema board](https://github.com/Anhar12/posttest2-praktikum-iot-unmul/assets/92861249/bfd9a8bd-1825-4a00-9bfd-d73f61474ead)
 
-### Link Video :  [https://youtu.be/9ruY9UlUcWY](https://youtu.be/9oNxr5nAnV8)https://youtu.be/9oNxr5nAnV8
+### Link Video
+https://youtu.be/9oNxr5nAnV8?si=2FOOoRKm8BYiTS43
